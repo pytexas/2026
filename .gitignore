@@ -1,0 +1,11 @@
+.idea/*
+.DS_Store
+venv/
+output/
+__pycache__/
+.cache/
+site/*
+
+# poetry isn't used by anyone else
+poetry.lock
+pyproject.toml

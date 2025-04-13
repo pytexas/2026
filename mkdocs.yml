@@ -1,0 +1,95 @@
+site_name: PyTexas Conference
+site_author: PyTexas Foundation
+site_url: https://pytexas.org/2026/
+repo_url: https://github.com/pytexas/2026
+repo_name: pytexas/conference-site
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  custom_dir: overrides
+  locale: en
+  logo: assets/images/pytexas-logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+    - toc.follow
+  palette:
+    - scheme: pytx2026
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: pytx2026_light
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+copyright: "PyTexas Foundation © 2014 - 2026"
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - toc:
+      permalink: true
+      toc_depth: 3
+nav:
+  - Home: index.md
+  - About: about.md
+  - Attend:
+      - In Person Attendance: attend/in-person.md
+      - Opportunity Grants: attend/grants.md
+      #- Virtual Attendance: attend/virtual.md
+  - Sponsors:
+     # - sponsors/index.md
+      - sponsors/sponsor-us.md
+ # - Schedule:
+ #     - Event Schedule: schedule/index.md
+ #     - Keynotes: schedule/keynotes.md
+ #     - Tutorials: schedule/tutorials.md
+ #     - Talks: schedule/talks.md
+  - FAQ: faq.md
+plugins:
+  - search
+  - social:
+      cards_layout_options:
+        background_color: "#606070"
+        color: "#FCE004"
+ # - redirects:
+ #     redirect_maps:
+ #       "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"
+ #       "reg.md": "https://forms.gle/2zJZKi68eJcefoDW7"
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+      name: Twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@pytexas
+      name: Mastodon
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/pytexas.org
+      name: Bluesky
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+      name: Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/pytexas
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup/
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas
