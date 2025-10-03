@@ -4,29 +4,18 @@ description: Looking to get your company in front of the PyTexas community? Spon
 ---
 # Sponsor Us
 
-This year is the **20th year** of the annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization. 
+This year is the 19th annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization. We’re excited to announce that we will be returning on April 11&ndash;13, 2025, to the Austin Central Public Library in Austin, TX. This event is 100% community organized and is funded through the generosity of our sponsors.
 
-We’re excited to announce that we will be returning on April 17&ndash;19, 2026, to the Austin Central Public Library in Austin, TX. 
-This event is 100% community organized and is funded through the generosity of our sponsors.
+Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be added to our sponsor mailing list.
 
-## Prospectus Launching End of April 2025!
+## 2025 Prospectus
 
-*Get notified about the latest opportunities to sponsor PyTexas.*
-
-[Join the PyTexas Sponsors Mailing List](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors){ .md-button .pytx-button--primary }
-
-
-
-
-<!-- 
-///If your enterprising self found this, it is not ready. This is last years. Shoo./// 
-## 2026 Prospectus
-
-| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event | 
+| | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
 | -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
-| Number remaining | 2 | 4 | 4 | 15 | 2 | 2 | 2 | 6 |
+| Number remaining | 1 | 5 | 5 | 15 | 2 | 2 | 2 | 6 |
 | Cost (USD) | 9000 | 5000 | 3000 | 1000 | 2000 | 2000 | 4000 | 4000 |
 | Tickets included | 4 | 2 | 1 | 1 | 2 | 2 | 2 | 2 |
+| Discounted Tickets (50% Corp Rate) | 10 | 5 | 2 | - | 2 | 2 | 2 | 2 |
 | Pitch | 2 min | 2 min | 1 min | 1 min | 2 min | 2 min | 2 min | 2 min |
 | Table | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | | | | | :fontawesome-solid-check: [^1] |
 | Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
@@ -38,7 +27,7 @@ This event is 100% community organized and is funded through the generosity of o
 | Social media callout | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
 | Shared swag table<br/>for stickers and other swag<br/>UNSTAFFED | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
 
-///Footnotes Go Here/// 
+///Footnotes Go Here/// <!-- NOTE: This is how the markdown processor knows where to put the footnotes. Keep it at the end of the table. -->
 
 [^1]: At network event
 [^2]: Date selection is first come, first serve. Talk is subject to approval. All talks go through the talk review process to ensure that PyTexas remains a high quality conference. Sponsored talks should be the same kind of talks that you would submit through our normal call for proposals. Sales pitches, advertisements, and talks that are not relevant to the Python community will be rejected. **Note that we reserve the right to reject a talk if we think it could jeopardize our 501(c)3 status.**
@@ -63,20 +52,60 @@ The PyTexas Conference is a regional Python-focused conference held annually in 
 
 **On average, we sell out our venue and have 200-250 attendees a year.**
 
-### 2025 Demographics
+### 2024 Demographics
 
 We had guests from all over the world, though our audience primarily is in Texas.
 
-![Locations](../assets/images/prospectus/Location2024.svg){.pytx-prospectus-graph}
-![texas cities](../assets/images/prospectus/TexasCity2024.svg){.pytx-prospectus-graph}
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+pie showData
+    title Attendee Location
+    "From Texas" : 83
+    "Within US" : 11
+    "Outside US" : 4
+```
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+pie showData
+    title Texas Cities
+    "Austin" : 53
+    "Dallas - Fort Worth" : 16
+    "Houston": 13
+    "San Antonio" : 9
+    "Other": 7
+```
 
 We primarily get software engineers and other engineering fields, though we had some leadership and management folks attend.
 
-![role](../assets/images/prospectus/roles2024.svg){.pytx-prospectus-graph-lg}
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+pie showData
+    title Role
+    "Software Engineer/SDET" : 53
+    "Student" : 9
+    "DevOps Engineer/SRE": 9
+    "Data Scientist/Machine Learning": 11
+    "Marketing/Sales/DevRel": 4
+    "Security": 2
+    "Program/Product Management": 2
+    "Other": 10
+```
 
  Also, we have a fairly even spread of experience.
 
-![years](../assets/images/prospectus/years2024.svg){.pytx-prospectus-graph-lg}
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#2196F3', 'pie2': '#FFC107', 'pie3': '#26A69A', 'pie4': '#FB8C00', 'pie5': '#5C6BC0', 'pie6': '#039BE5', 'pie7': '#FF7043'}}}%%
+pie showData
+    title Attendee Experience
+    "Less than 1 year" : 9
+    "1-3 years" : 20
+    "4-7 years": 19
+    "7-15 years": 23
+    "15+ years" : 27
+    "Prefer not to say": 2
+```
 
 ## How We Use The Funds
 
@@ -89,4 +118,3 @@ Also, in an attempt to make PyTexas as accessible as possible to everyone, we su
 Thank you for considering to sponsor PyTexas.
 
 If you’re interested in sponsoring PyTexas, please reach out to [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).
--->

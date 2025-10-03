@@ -21,13 +21,13 @@ theme:
     - toc.integrate
     - toc.follow
   palette:
-    - scheme: pytx2026
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
     - scheme: pytx2026_light
       toggle:
         icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: pytx2026
+      toggle:
+        icon: material/toggle-switch
         name: Switch to light mode
 copyright: "PyTexas Foundation © 2014 - 2026"
 markdown_extensions:
@@ -44,6 +44,11 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
   - About: about.md

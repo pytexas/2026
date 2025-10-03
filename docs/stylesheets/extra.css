@@ -174,14 +174,31 @@ figcaption>a:focus {
 }
 
 
-.md-typeset table:not([class]) {
-    background-color: var(--md-primary-fg-color);
+[data-md-color-scheme="pytx2026_light"] .md-typeset table:not([class]) {
+    background-color: var(--background-color);
     width: 100%;
 }
 
-thead {
-    background-color: var(--md-table-head-color);
-    color: var(--md-table-head-font);
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) {
+    background-color: var(--background-color);
+    width: 100%;
+    border-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) th,
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) td {
+    border-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026_light"] thead {
+    background-color: var(--pytx-green);
+    color: var(--background-color);
+    font-size: 1.15em;
+}
+
+[data-md-color-scheme="pytx2026"] thead {
+    background-color: var(--pytx-blue);
+    color: var(--background-color);
     font-size: 1.15em;
 }
 
