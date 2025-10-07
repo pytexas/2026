@@ -8,7 +8,7 @@ This year is the 19th annual PyTexas Conference, a gathering of Pythonistas put 
 
 Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be added to our sponsor mailing list.
 
-## 2025 Prospectus
+## 2026 Prospectus
 
 | | Platinum | Gold | Silver | Bronze | Lanyard | Live Captioning | Food/Coffee | Networking Event |
 | -- | :--: |  :--: |  :--: |  :--: |  :--: |  :--: |  :--: | :--: |
