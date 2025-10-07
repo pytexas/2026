@@ -4,7 +4,9 @@ description: Looking to get your company in front of the PyTexas community? Spon
 ---
 # Sponsor Us
 
-This year is the 19th annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization. We’re excited to announce that we will be returning on April 11&ndash;13, 2025, to the Austin Central Public Library in Austin, TX. This event is 100% community organized and is funded through the generosity of our sponsors.
+This year is the 20th annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization. 
+We’re excited to announce that we will be returning on April 17&ndash;19, 2026 to the Austin Central Public Library in Austin, TX. 
+This event is 100% community organized and is funded through the generosity of our sponsors.
 
 Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be added to our sponsor mailing list.
 
@@ -52,7 +54,7 @@ The PyTexas Conference is a regional Python-focused conference held annually in 
 
 **On average, we sell out our venue and have 200-250 attendees a year.**
 
-### 2024 Demographics
+### 2025 Demographics
 
 We had guests from all over the world, though our audience primarily is in Texas.
 
