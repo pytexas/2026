@@ -74,7 +74,7 @@ pie showData
 | -- | :--: | :--: |
 | **Cost (USD)** | **$1,500** | **$4,000** |
 | Tickets included | 1 | 2 |
-| Table | Half table, one day (you pick Sat or Sun) | Full table at Networking Event (Sat evening) |
+| Table | Half table, one day (you pick Sat or Sun; first come, first serve) | Full table at Networking Event (Sat evening) |
 | Pitch | 30-second intro after morning keynote | 1–2 minute pitch at the Networking Event |
 | Career Corner | Drop-in resume reviews at your booth | **Scheduled 30–45 min Career Corner** during Networking Event, promoted to all attendees |
 | Job board posting | Standard | **Featured placement** (top of page, highlighted) |
