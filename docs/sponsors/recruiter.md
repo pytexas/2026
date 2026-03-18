@@ -73,6 +73,7 @@ pie showData
 |  | Recruiter Day Pass | Recruiter Networking Sponsor |
 | -- | :--: | :--: |
 | **Cost (USD)** | **$1,500** | **$4,000** |
+| Availability | 20 | 3 (shared with happy hour sponsorship) |
 | Tickets included | 1 | 2 |
 | Table | Half table, one day (you pick Sat or Sun; first come, first serve) | Full table at Networking Event (Sat evening) |
 | Pitch | 30-second intro after morning keynote | 1–2 minute pitch at the Networking Event |
