@@ -95,10 +95,10 @@ The Career Corner is an exclusive activation available only through our Recruite
 ### How It Works
 
 **Networking Sponsor ($4,000):**
-We give you a dedicated 30–45 minute block during the Saturday evening Networking Event (6:30–9:00 PM). PyTexas promotes the Career Corner to all attendees in advance. Attendees sign up for one-on-one resume review slots with your team. You get a dedicated space, a relaxed crowd (drinks are flowing), and engineers who are voluntarily putting their resume in your hands.
+We give you a dedicated during the Saturday evening Networking Event (6:30–9:00 PM). PyTexas promotes the Career Corner to all attendees in advance. Attendees may sign up for one-on-one resume review slots with your team (if you'd like). You get engineers in a social setting who are voluntarily putting their resume in your hands.
 
 **Day Pass ($1,500):**
-You run resume reviews informally at your booth throughout your day. Put up a sign, spread the word, and attendees stop by between talks for quick feedback. You're welcome to request contact info at your table for opt-in future communication. It's lower-key but still effective.
+You run resume reviews informally at your booth throughout your day. Put up a sign, spread the word, and attendees stop by between talks for quick feedback. You're welcome to request contact info or resumes at your table for opt-in future communication.
 
 ### Why This Works
 
@@ -116,7 +116,7 @@ The Saturday Networking Event (6:30–9:00 PM) is the single best recruiting env
 
 - **2.5 hours** of unstructured time with attendees in a social setting
 - Attendees are relaxed, open to conversation, and not rushing to the next talk
-- Your **1–2 minute pitch** lands with a receptive audience (drinks help)
+- Your **1–2 minute pitch** lands with a receptive audience
 - The **scheduled Career Corner** gives you a built-in reason for deep, one-on-one conversations
 - You're not competing with talks for attention — you ARE the event
 
