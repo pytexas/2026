@@ -64,7 +64,7 @@ pie showData
 83% of attendees are from Texas, with heavy concentration in the major metros where you're most likely hiring.
 
 !!! info "They're looking for you, too"
-    This year we added a field to our ticket purchase asking attendees whether they're currently looking for a new role. **Around 40% said yes.** That's not a survey with selection bias — that's self-reported data from people who already bought a ticket. Nearly half the room is actively open to their next opportunity.
+    This year we added a field to our ticket purchase asking attendees whether they're currently looking for a new role. **Around 40% so far said yes.** That's not a survey with selection bias; that's self-reported data from people who already bought a ticket. Nearly half the room is actively open to their next opportunity.
 
 ---
 
