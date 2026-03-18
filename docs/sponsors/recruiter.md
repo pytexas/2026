@@ -98,7 +98,7 @@ The Career Corner is an exclusive activation available only through our Recruite
 We give you a dedicated 30–45 minute block during the Saturday evening Networking Event (6:30–9:00 PM). PyTexas promotes the Career Corner to all attendees in advance. Attendees sign up for one-on-one resume review slots with your team. You get a dedicated space, a relaxed crowd (drinks are flowing), and engineers who are voluntarily putting their resume in your hands.
 
 **Day Pass ($1,500):**
-You run resume reviews informally at your booth throughout your day. Put up a sign, spread the word, and attendees stop by between talks for quick feedback. It's lower-key but still effective — you're the only table offering this.
+You run resume reviews informally at your booth throughout your day. Put up a sign, spread the word, and attendees stop by between talks for quick feedback. You're welcome to request contact info at your table for opt-in future communication. It's lower-key but still effective.
 
 ### Why This Works
 
