@@ -128,4 +128,4 @@ For $4,000, you're getting more meaningful candidate interactions in one evening
 
 Contact us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to reserve your spot.
 
-Spots are limited — we want to keep the recruiter presence balanced so it enhances the attendee experience rather than overwhelming it.
+Spots are limited. We want to keep the recruiter presence balanced so it enhances the attendee experience rather than overwhelming it.
