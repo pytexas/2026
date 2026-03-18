@@ -102,7 +102,7 @@ You run resume reviews informally at your booth throughout your day. Put up a si
 
 ### Why This Works
 
-**For you:** You'll have Python engineers voluntarily handing you their resumes and asking for your professional opinion. That's better pipeline than a month of LinkedIn InMails. You see their actual qualifications, have a genuine conversation, and build a relationship — all in a setting where they came to you.
+**For you:** You'll have Python engineers voluntarily handing you their resumes and asking for your professional opinion. That's better pipeline than a month of LinkedIn InMails. You see their actual qualifications, have a genuine conversation, and build a relationship, all in a setting where they came to you.
 
 **For attendees:** Free professional resume feedback from actual hiring professionals. Especially valuable for the ~29% of attendees who are early in their careers. It's the kind of thing people remember and tell their friends about.
 
