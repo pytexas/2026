@@ -90,7 +90,7 @@ pie showData
 
 ## The Career Corner
 
-The Career Corner is an exclusive activation available only through our Recruiter sponsorship tiers. It's simple: you provide resume reviews and career advice to attendees, and they love you for it.
+The Career Corner is an exclusive activation available only through our Recruiter sponsorship tiers. You provide resume reviews and career advice to attendees, and they love you for it. And you can collect info on an opt-in basis with people who come to connect with you.
 
 ### How It Works
 
