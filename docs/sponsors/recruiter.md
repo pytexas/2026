@@ -14,7 +14,7 @@ robots: noindex, nofollow
 
 ## Why PyTexas?
 
-PyTexas 2026 (April 17–19, Austin) is the oldest regional Python conference in North America, now in its 20th year. It's a concentrated pool of Python talent — **200–250 attendees** and 83% are Texas-based.
+PyTexas 2026 (April 17–19, Austin) is the oldest regional Python conference in North America, now in its 20th year. It's a concentrated pool of Python talent, with **200–250 attendees**. 83% are Texas-based.
 
 These are engineers who invest their own weekend to attend a technical conference — exactly the kind of engaged, high-quality candidates you want in your pipeline.
 
