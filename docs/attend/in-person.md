@@ -73,7 +73,7 @@ The event will be starting before the library is open. **Be sure to use the Sout
 
 If the parking garage is full, there are other parking options nearby.
 
-* [Austin City Hall Garage](https://www.austintexas.gov/cityhallparking)
+* [Austin City Hall Garage](https://abmparking.com/facilities/austin-city-hall-garage/)
 * [Silicon Labs Garage](https://www.parkme.com/lot/82674/silicon-labs-garage-austin-tx)
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking
