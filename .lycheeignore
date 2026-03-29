@@ -1,1 +1,4 @@
 localhost:8000
+
+# Bloomberg blocks requests from GitHub IPs
+https://www.bloomberg.com/company/values/tech-at-bloomberg/

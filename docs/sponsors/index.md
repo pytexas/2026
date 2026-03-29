@@ -35,7 +35,7 @@ Add your name to this list!
 
 ## Lanyard Sponsors
 
-[![Bloomberg Sponsor Logo](../assets/images/sponsors/bloomberg.png){: width="220" align="left" .sponsor}](https://www.bloomberg.com/)
+[![Bloomberg Sponsor Logo](../assets/images/sponsors/bloomberg.png){: width="220" align="left" .sponsor}](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
 
 <br clear=all>
 
