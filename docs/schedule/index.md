@@ -32,8 +32,8 @@ description: A full schedule grid for the event
 | 02:30&nbsp;PM | [Behind the Magic: Unlocking Python's Descriptor Protocol](talks.md#behind-the-magic-unlocking-pythons-descriptor-protocol)<br/>Scott Irwin |
 | 03:00&nbsp;PM | 15-Minute Break |
 | 03:15&nbsp;PM | [Data Engineer's survival guide: writing pipelines that don't break at 3 AM](talks.md#data-engineers-survival-guide-writing-pipelines-that-dont-break-at-3-am)<br/>Indrasena Manga |
-| 03:45&nbsp;PM | 15-Minute Break |
-| 04:00&nbsp;PM | [Failed Experiments in Vibe Coding](talks.md#failed-experiments-in-vibe-coding)<br/>Al Sweigart |
+| 03:45&nbsp;PM | [Failed Experiments in Vibe Coding](talks.md#failed-experiments-in-vibe-coding)<br/>Al Sweigart |
+| 04:15&nbsp;PM | 15-Minute Break |
 | 04:30&nbsp;PM | [Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)](tutorials.md#building-a-full-stack-fastapi-app-with-open-source-documentdb-via-docker-sponsored)<br/>Microsoft |
 | 06:00&nbsp;PM | Lightning Talks |
 | 06:30&nbsp;PM | Networking Event Starts |
@@ -55,9 +55,9 @@ description: A full schedule grid for the event
 | 12:20&nbsp;PM | Lunch |
 | 02:00&nbsp;PM | [Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways](talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways)<br/>Pandy Knight |
 | 02:30&nbsp;PM | [Introducing Meow'py: Observability for the Internet of Living Things](talks.md#introducing-meowpy-observability-for-the-internet-of-living-things)<br/>Sophia Solomon |
-| 03:00&nbsp;PM | [Tying Up Loose Threads: Making your Project No-GIL Ready](talks.md#tying-up-loose-threads-making-your-project-no-gil-ready)<br/>Charlie Lin |
-| 03:30&nbsp;PM | 10 Minute Break |
-| 03:40&nbsp;PM | [Upgrading Python CLIs: From Scripts to Interactive Tools](talks.md#upgrading-python-clis-from-scripts-to-interactive-tools)<br/>Avik Basu |
-| 04:10&nbsp;PM | [Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling](talks.md#lint-fast-type-hard-elevate-your-code-quality-in-python-with-modern-ultra-fast-tooling)<br/>Miguel Vargas |
-| 04:40&nbsp;PM | Lightning Talks |
-| 05:20&nbsp;PM | Closing Remarks |
+| 03:00&nbsp;PM | 15 Minute Break |
+| 03:15&nbsp;PM | [Tying Up Loose Threads: Making your Project No-GIL Ready](talks.md#tying-up-loose-threads-making-your-project-no-gil-ready)<br/>Charlie Lin |
+| 03:45&nbsp;PM | [Upgrading Python CLIs: From Scripts to Interactive Tools](talks.md#upgrading-python-clis-from-scripts-to-interactive-tools)<br/>Avik Basu |
+| 04:15&nbsp;PM | [Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling](talks.md#lint-fast-type-hard-elevate-your-code-quality-in-python-with-modern-ultra-fast-tooling)<br/>Miguel Vargas |
+| 04:45&nbsp;PM | Lightning Talks |
+| 05:25&nbsp;PM | Closing Remarks |
