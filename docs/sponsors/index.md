@@ -35,7 +35,7 @@ Add your name to this list!
 
 ## Lanyard Sponsors
 
-[![Bloomberg Sponsor Logo](../assets/images/sponsors/bloomberg.png){: width="220" align="left" .sponsor}](https://www.bloomberg.com/)
+[![Bloomberg Sponsor Logo](../assets/images/sponsors/bloomberg.png){: width="220" align="left" .sponsor}](https://www.bloomberg.com/company/values/tech-at-bloomberg/)
 
 <br clear=all>
 
@@ -45,3 +45,12 @@ Add your name to this list!
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left" .sponsor}](https://devitjobs.com/jobs/python/all/all)
 
 [![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="200" align="left" .sponsor}](https://pretix.eu/)
+
+<br clear=all>
+
+
+## Community Sponsors
+
+[![Black Python Devs](../assets/images/sponsors/black_python_devs.svg){: width="150" align="left" .sponsor}](https://blackpythondevs.github.io/)
+
+<br clear=all>
