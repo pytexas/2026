@@ -11,6 +11,8 @@ Python's flexibility makes it an excellent choice for creating Domain-Specific L
 
 In this talk, we'll explore the art and science of designing Python DSLs that don't fight against the language's principles. You'll learn when to embrace Python's "magic" and when it becomes harmful, how to create APIs that feel pythonic even when they're domain-specific, and practical techniques for building DSLs through detailed analysis of successful real-world examples.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K3JL5C8HFqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Moshe Zadka**
 
 ![Moshe Zadka Headshot](https://pretalx.com/media/avatars/KYYQVJ_v0LCIik.webp){: width="150" align=left}
@@ -22,6 +24,8 @@ _Moshe has been a DevOps/SRE since before those terms existed, caring deeply abo
 ## I Built an AI Running Coach (That Actually Remembers My Training)
 
 Generic fitness apps don't know when you're sick, stressed, or injured. In this talk, I'll show how I built a personal AI running coach using Python. You'll learn how to reverse-engineer undocumented APIs (like Peloton), handle conflicting data, and use async serverless patterns to give LLMs "memory" and context.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EfIbH20J97Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Adam Gordon Bell**
 
@@ -39,6 +43,8 @@ The Model Context Protocol (MCP) offers a structured way to expose Python tools 
 
 We will show how to apply schema validation, introduce simple sandboxing rules, and log tool usage for transparency. The goal is to provide practical patterns that help developers build LLM-powered features in Python with more confidence and oversight.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rYPl3Tp978Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Maria Silvia Mielniczuk**
 
 ![Maria Silvia Mielniczuk Headshot](../assets/images/speakers/Maria_Silvia_Mielniczuk.png){: width="150" align=left}
@@ -51,6 +57,8 @@ _Maria Silvia Mielniczuk is a data scientist with a Master of Applied Data Scien
 
 With over 150 open-source visualization tools in the Python ecosystem, picking the right one can feel like choosing a restaurant in a city you've never visited - overwhelming, and with real consequences if you get it wrong. This talk cuts through the noise. Dr. Bednar will walk through all the major categories of Python visualization libraries, lay out practical criteria for evaluating them, and show real examples of what each type of tool can actually do. Whether you're exploring a messy dataset, building an interactive dashboard, or publishing a polished figure, there's a right tool for that - and probably a wrong one you're currently using because someone on your team grabbed it first. Stop inheriting other people's defaults, and come find yours!
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KpmEVWWN1Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Dr. James A. Bednar**
 
 ![Dr. James A. Bednar Headshot](../assets/images/speakers/james.jpg){: width="150" align=left}
@@ -62,6 +70,8 @@ _Senior Director of Professional Services at Anaconda, Inc., founder of the Holo
 ## Why Installing Python Packages Is Still a Security Risk
 
 While it is widely known that there are risks in installing untrusted Python packages, the nature of those risks are often unclear. Back when installation required directly calling `setup.py` with `python`, the risks were obvious. Now, using wheels, `pip install`, and `pyproject.toml`, it is at least possible to install a package without running arbitrary code. Yet even with the best modern tools, there remain many ways arbitrary code can be run or planted on installation. This talk will introduce installation-time threats and practical defenses, relevant for anyone who installs packages or maintains production Python environments.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6nBqP0pGT3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Christopher Ariza**
 
@@ -79,6 +89,8 @@ In this talk, we'll reveal the magic of how Python decides what happens when you
 
 You'll walk away with a clearer mental model of Python's object model, a few new "aha!" moments, and maybe the inspiration to build a descriptor or two yourself.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NVKnYw4Z6B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Scott Irwin**
 
 ![Scott Irwin Headshot](https://pretalx.com/media/avatars/EWKHZ9_I9FQTKU.webp){: width="150" align=left}
@@ -93,6 +105,8 @@ Let's say you are notified that a critical pipeline failed because a source file
 
 Data Engineering doesn't have to be a constant cycle of firefighting. By borrowing battle tested practices from traditional software engineering like strict type hinting, robust unit testing, and defensive design, we can build pipelines that are resilient by default. This talk is a survival guide for the modern Data Engineer. We will move beyond scripting and explore how to use standard Python tools (like Pydantic, pytest, and logging) to catch dirty data and logic errors in CI/CD, long before they wake you up.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vllVi_pKd9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Indrasena Manga**
 
 ![Indrasena Manga Headshot](../assets/images/speakers/Indrasena_Manga.png){: width="150" align=left}
@@ -105,6 +119,8 @@ _Indrasena Manga, a Senior Data Engineer at AXS.com (Texas, USA) with expertise 
 
 "AI is going to replace all software engineers if we could just get it to stop deleting the database." This talk explores the possibility of non-developers using AI to "vibe code" software, along with some hilarious failures. Circular mazes, lava lamp screensavers, virtual abacuses, combination lock simulators, and an African geography map quiz: Al Sweigart presents AI-generated Python code that doesn't quite reach success.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/01NuRv-LsH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Al Sweigart**
 
 ![Al Sweigart Headshot](https://pretalx.com/media/avatars/HVAES8_0rorN3p.webp){: width="150" align=left}
@@ -116,6 +132,8 @@ _Al Sweigart (rhymes with "why dirt") is a software developer, tech book author,
 ## The Bakery: How PEP810 sped up my bread operations business
 
 Discover how PEP 810's explicit lazy imports can dramatically improve Python application startup times. Using a real CLI tool as a case study, that we totally use in our real business, this talk demonstrates practical techniques to optimize import performance while maintaining code clarity and safety.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JplCNLBD5Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Jacob Coffee**
 
@@ -130,6 +148,8 @@ _Jacob Coffee is an Infrastructure Engineer at the Python Software Foundation an
 Installation shouldn't be a barrier to learning Python. In this talk, you'll discover how to turn traditional documentation into fully interactive, zero-setup Python environments straight in your browser - no servers, containers, or local installation necessary. You'll learn how to use MkDocs + JupyterLite (via WebAssembly) to embed live code, auto-sync code examples from your repo without duplication, and make presentation of your training documentation easier to utilize.
 
 If you maintain docs, teach Python, build internal tools, or just want smoother developer experiences, you'll walk away knowing exactly how to choose and implement the right approach for your team or project while gaining a fresh appreciation for how accessible Python learning can be when we remove barriers.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XNS3IwQZD80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Kassandra Keeton, the Prosperous Heart**
 
@@ -157,6 +177,8 @@ _Sumaiya Nalukwago is an experienced IT Professional currently working with Mbar
 
 Modern software applications are distributed systems. They need to connect and communicate with other applications across a network. Event-Driven Architecture is a common pattern for facilitating this connectivity, using Events as the communication abstraction. However, this pattern introduces complexities as well, such as fragmented logic, increased latency, decreased observability, and more. But what if there were a way to get the benefits of Event-Driven Architecture without the complexities?
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1YI5o5P8h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Mason Egger**
 
 ![Mason Egger Headshot](https://github.com/masonegger.png){: width="150" align=left}
@@ -168,6 +190,8 @@ _Mason is currently a Senior Solutions Architect at Temporal Technologies, where
 ## Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways
 
 API tests are often seen as essential, but are they always worth the effort? In this talk, we will challenge conventional testing strategies and explore whether API tests are truly the best way to catch meaningful bugs. We will consider smarter alternatives like unit testing handlers, contract testing, and well-placed UI tests — all through the lens of Domain-Driven Design. Rather than advocating for zero API tests, this is a call to be more deliberate about where and why we test. You'll leave with practical insights for building faster, more focused, and more maintainable test suites.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3juU3JOIG3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Pandy Knight**
 
@@ -181,6 +205,8 @@ _Andrew Knight, also known as "Pandy," is the Automation Panda. He's a software 
 
 Observability is the cornerstone of our modern distributed systems - if your app has services, having an observable system is crucial. But what if we applied the same logic to living things? This talk introduces my python-coded virtual cat, Meow'py, and basic functions of OpenTelemetry with Elastic Observability. I will show the basic data flow of my app, give a quick code deep dive, and present a demo of Meow'py enjoying his habitat (AKA eating, pooping, attempting escapes..) as his observability stats fluctuate in our Kibana dashboard. Attendees will leave with a greater understanding of OpenTelemetry, and learn the benefits of implementing observability to the internet of things, living or not.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r2X48XuvRT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Sophia Solomon**
 
 ![Sophia Solomon Headshot](https://pretalx.com/media/avatars/XGSEGN_CSCncDP.webp){: width="150" align=left}
@@ -192,6 +218,8 @@ _Hello, my name is Sophia! With a background in Biochemistry from UT Austin, I d
 ## Tying Up Loose Threads: Making your Project No-GIL Ready
 
 If you, a project maintainer, want to support the free-threaded interpreter, but are unsure how, then this is for you! I'll show why ditching the GIL will yield extra performance, tips on making your compiled extensions compatible with the new ABI, and catching bugs as part of your automated workflows.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z43-0VII3QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Charlie Lin**
 
@@ -207,6 +235,8 @@ Most Python command-line tools start simple: print statements, argument parsing,
 
 In this talk, we will show that we can do better than that, using libraries like Textual, Rich and Typer. We will cover the process to move from basic scripts into professional Terminal User Interfaces (TUIs) with interactive components, real-time updates and visual feedback. We will go over practical patterns for building tools that you can use for data processing, monitoring or config management.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZbAtJ4E9AGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Speaker: Avik Basu**
 
 ![Avik Basu Headshot](https://pretalx.com/media/avatars/Z7XLKH_Rey05Sy.webp){: width="150" align=left}
@@ -218,6 +248,8 @@ _Avik is a seasoned data scientist and software engineer passionate about writin
 ## Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling
 
 Modern Python tooling has turned code quality into a speed advantage. This talk shows how ultra-fast linters, formatters, and type checkers—like Ruff and Pyrefly—remove the usual friction and make best practices feel effortless. You'll learn how to introduce these tools across engineering teams without disruption, why performance drives adoption, and how to build a workflow where quality checks become the fastest part of your day.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/chfwQqqofdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Speaker: Miguel Vargas**
 
