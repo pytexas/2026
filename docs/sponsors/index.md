@@ -4,9 +4,9 @@ description: PyTexas wouldn't be possible without the support of our sponsors. B
 ---
 # PyTexas Conference 2026 Sponsors
 
-Add your name to this list!
+A huge thank you to the sponsors who made the 20th anniversary of PyTexas possible!
 
-[Sponsor Us!](sponsor-us.md){: .md-button .pytx-button--primary}
+Want to support next year's event? [Sponsor PyTexas 2027](https://www.pytexas.org/2027/sponsors/sponsor-us/){: .md-button .pytx-button--primary}
 
 ## Platinum Sponsors
 

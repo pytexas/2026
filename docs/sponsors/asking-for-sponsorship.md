@@ -7,7 +7,7 @@ description: Want to see your company sponsor PyTexas but don't know how to ask?
 
 **Want your company to sponsor PyTexas but unsure who to approach or how to make the case?** 
 
-One of the largest challenges for people is not knowing whom or how to ask for sponsorship. So to help out we've identified the key decision-makers within most companies that you can ask. We've provide explanations as to why PyTexas may matter to them, and provided ready-to-use message templates you can use to get the ball rolling. Help us make sure your company is represented at PyTexas this year! 
+One of the largest challenges for people is not knowing whom or how to ask for sponsorship. So to help out we've identified the key decision-makers within most companies that you can ask. We've provide explanations as to why PyTexas may matter to them, and provided ready-to-use message templates you can use to get the ball rolling. Help us make sure your company is represented at [PyTexas 2027](https://www.pytexas.org/2027/)!
 
 ---
 

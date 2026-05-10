@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-description: Tutorials will be held April 17, 2026.
+description: Tutorials were held April 17, 2026.
 ---
 
 ## Schedule

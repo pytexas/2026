@@ -1,17 +1,17 @@
 ---
 title: In-Person Attendance
-description: Get your ticket today!
+description: Details from the 2026 in-person event.
 ---
 
 # Attend PyTexas
 
-Click below to access the Attendee Guide!
+The 2026 event has concluded. The Attendee Guide remains available for reference, and details for next year are on the [PyTexas 2027 site](https://www.pytexas.org/2027/).
 
 [Attendee Guide](https://docs.google.com/document/d/1078R0epUGqthTzvggwgLGuXUhu8eecGeVClB6xuKjM0/edit?usp=drive_web&ouid=113545413620274301995){: .md-button .pytx-button--primary}
 
 ## Venue
 
-PyTexas 2026 is being held at the [Austin Central Public Library](http://library.austintexas.gov/central-library) in
+PyTexas 2026 was held at the [Austin Central Public Library](http://library.austintexas.gov/central-library) in
 Austin, TX:
 
 ![Austin Public Library](https://library.austintexas.gov/library/ncl_location_page_large%5B1%5D_0.jpg)
