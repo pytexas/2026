@@ -37,7 +37,7 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --accept 200,204,206,301,302,307,308,429
+            --accept 200,204,206,301,302,307,308,403,429
             'site/**/*.html'
           fail: true
 
