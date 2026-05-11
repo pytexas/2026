@@ -3,9 +3,17 @@ title: Keynote Speakers
 description: We are proud to have Dawn Wages and Hynek Schlawack join us to deliver the 2026 keynotes.
 ---
 
+<div class="keynote-card" markdown="1">
+
 ## Dawn Wages
 
-![Dawn Wages](../assets/images/speakers/dawn-wages.jpg){: width="300" align=left}
+<div class="keynote-middle" markdown="1">
+<div markdown="1">
+
+![Dawn Wages](../assets/images/speakers/dawn-wages.jpg){: width="300"}
+
+</div>
+<div markdown="1">
 
 Dawn Wages is the Director of Community and Developer Relations at Anaconda,
 responsible for the most popular Python distribution in the world.
@@ -17,18 +25,36 @@ combining technical knowledge with attention to equity, sovereignty, and develop
 
 When not working on Python, she enjoys watching Star Trek in Philadelphia with her wife and two dogs.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mHG3aAkbpvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
-<br clear=all>
+<div class="video-wrapper">
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mHG3aAkbpvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe src="https://www.youtube-nocookie.com/embed/mHG3aAkbpvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="keynote-card" markdown="1">
 
 ## Hynek Schlawack
 
-![Hynek Schlawack](../assets/images/speakers/hynek.jpeg){: width="300" align=left}
+<div class="keynote-middle" markdown="1">
+<div markdown="1">
+
+![Hynek Schlawack](../assets/images/speakers/hynek.jpeg){: width="300"}
+
+</div>
+<div markdown="1">
 
 Hynek Schlawack is a lead infrastructure and software engineer from Berlin, Germany,
 PSF fellow, blogger, YouTuber, and maintainer of *way* too many open source projects.
 His main areas of interest are networks, security, and robust software.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MDqQTtjbVX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
-<br clear=all>
+<div class="video-wrapper">
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MDqQTtjbVX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+<iframe src="https://www.youtube-nocookie.com/embed/MDqQTtjbVX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
