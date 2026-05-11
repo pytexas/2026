@@ -88,6 +88,8 @@ The repository uses GitHub Actions for continuous integration and deployment:
 
 See [CLAUDE.md](CLAUDE.md) for detailed project structure and development guidelines.
 
+Note that the [CodeGuard](https://project-codeguard.org/) items are updated only when available after a PR has been made. For the most recent updates to CodeGuard, see [here](https://github.com/cosai-oasis/project-codeguard/releases). Learn more on the [getting started](https://project-codeguard.org/getting-started/) page.
+
 ## Hex Colors
 
 Hex code for the colors for this year's logo
