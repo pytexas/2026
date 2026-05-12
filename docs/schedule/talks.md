@@ -44,7 +44,7 @@ Generic fitness apps don't know when you're sick, stressed, or injured. In this 
 
 **Adam's Resources**
 
-- [Repo](https://github.com/adamgordonbell/ai-running-coach https://www.pulumi.com/community/community-engineering/adam-gordon-bell/) (simplified version of what Adam's running)
+- [Repo](https://github.com/adamgordonbell/ai-running-coach) (simplified version of what Adam's running)
 - His [site](https://www.pulumi.com/community/community-engineering/adam-gordon-bell/)
 
 </div>
