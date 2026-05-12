@@ -5,9 +5,11 @@ description: The PyTexas 2026 Conference was April 17 - 19, 2026 in Austin, Texa
 ---
 
 # 20 Years of PyTexas, Deep in the 🧡 of Texas!
-## April 17 - 19, 2026 in Austin, TX — That's a Wrap!
+## April 17 - 19, 2026 in Austin, TX: That's a Wrap!
 
 The 2026 event has ended. Thanks to everyone who joined us in celebrating **20 years of PyTexas**! We hope to see y'all next year.
+
+2026 marked the **20th year** of the largest gathering of Python developers within the great state of Texas. We discussed software development, data science, community, and of course: Python.
 
 [Join Us at PyTexas 2027](https://www.pytexas.org/2027/){ .md-button .md-button--primary }
 
@@ -17,7 +19,7 @@ The 2026 event has ended. Thanks to everyone who joined us in celebrating **20 y
 
     ---
 
-    PyTexas wouldn't be possible without our sponsors. A huge thank you to everyone who sponsored our 20th year — [see the full list](sponsors/index.md).
+    PyTexas wouldn't be possible without our sponsors. A huge thank you to everyone who sponsored our 20th year. [See the full list](sponsors/index.md).
 
 -   :fontawesome-solid-ticket:{ .lg .middle} __Next Year__
 
