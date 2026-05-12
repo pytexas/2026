@@ -488,3 +488,103 @@ figcaption>a:focus {
     background-color: var(--pytx-brown);
     color: var(--background-color);
 }
+
+/* ====================================
+   Keynote Card Formatting
+   ==================================== */
+
+.keynote-card {
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.keynote-middle {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    align-items: start;
+}
+
+.keynote-middle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 600px) {
+    .keynote-middle {
+        display: block;
+    }
+
+    .keynote-middle img {
+        /* Copilot Suggestion */
+        width: 100px;
+        height: 100px;
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* ====================================
+   Speaker Replay & Links Formatting
+   ==================================== */
+
+.speaker-card {
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.speaker-middle {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    align-items: start;
+}
+
+.speaker-middle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.speaker-video-section {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.talk-links {
+    padding-top: 0.25rem;
+}
+
+@media (max-width: 768px) {
+    .speaker-middle {
+        display: block;
+    }
+    .speaker-middle img {
+        width: 150px;
+        margin-bottom: 0.75rem;
+    }
+    .speaker-video-section {
+        display: block;
+    }
+    .talk-links {
+        margin-top: 1rem;
+    }
+}
