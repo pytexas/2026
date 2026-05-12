@@ -1,0 +1,590 @@
+[data-md-color-scheme="pytx2026_light"] {
+    /* PyTexas 2026 Day Mode Colors - Sunrise & Nature */
+    --pytx-blue: #4B8EC2;
+    --pytx-green: #204F3C;
+    --pytx-yellow: #C2B64A;
+    --pytx-orange: #C73810;
+    --pytx-brown: #443229;
+    --pytx-light-cream: #FAFAF8;
+    --background-color: #ffffff;
+    --primary-background-color: var(--pytx-green);
+
+    /* Material Design Variables */
+    --md-primary-fg-color: var(--primary-background-color);
+    --md-default-fg-color: var(--pytx-brown);
+    --md-primary-fg-color--light: var(--pytx-green);
+    --md-default-fg-color--light: var(--pytx-brown);
+    --md-primary-fg-color--dark: var(--pytx-yellow);
+    --md-default-fg-color--dark: var(--pytx-yellow);
+    --md-typeset-a-color: var(--pytx-orange);
+    --md-primary-bg-color: var(--background-color);
+    --md-primary-bg-color--transparent: var(--pytx-yellow);
+    --md-default-bg-color: var(--pytx-light-cream);
+    --md-accent-fg-color: var(--pytx-yellow);
+    --md-accent-fg-color--transparent: var(--pytx-yellow);
+    --md-accent-a-color: var(--pytx-orange);
+    --md-accent-bg-color: var(--pytx-yellow);
+    --md-table-head-color: var(--pytx-yellow);
+    --md-table-head-font: var(--pytx-brown);
+}
+
+[data-md-color-scheme="pytx2026"] {
+    /* PyTexas 2026 Night Mode Colors - Moonlit Tranquility */
+    --pytx-blue: #4B8EC2;
+    --pytx-green: #204F3C;
+    --pytx-yellow: #C2B64A;
+    --pytx-orange: #C73810;
+    --pytx-brown: #443229;
+    --pytx-dark-brown: #1a1410;
+    --pytx-very-dark: #0f0a08;
+    --pytx-light-cream: #FAFAF8;
+    --background-color: #000000;
+    --primary-background-color: var(--pytx-blue);
+
+    /* Material Design Variables */
+    --md-primary-fg-color: var(--primary-background-color);
+    --md-default-fg-color: var(--pytx-light-cream);
+    --md-primary-fg-color--light: var(--pytx-blue);
+    --md-default-fg-color--light: var(--pytx-light-cream);
+    --md-primary-fg-color--dark: var(--pytx-yellow);
+    --md-default-fg-color--dark: var(--pytx-yellow);
+    --md-typeset-a-color: var(--pytx-yellow);
+    --md-primary-fg-color--transparent: var(--pytx-yellow);
+    --md-primary-bg-color: var(--background-color);
+    --md-primary-bg-color--transparent: var(--pytx-yellow);
+    --md-default-bg-color: var(--background-color);
+    --md-accent-fg-color: var(--pytx-yellow);
+    --md-accent-fg-color--transparent: var(--pytx-yellow);
+    --md-accent-a-color: var(--pytx-orange);
+    --md-accent-bg-color: var(--pytx-brown);
+    --md-table-head-color: var(--pytx-yellow);
+    --md-table-head-font: var(--background-color);
+}
+
+[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-light"] {
+    display: none;
+}
+
+[data-md-color-scheme="pytx2026"] div[class~="hide-if-dark"] {
+    display: none;
+}
+
+[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>svg {
+    max-height: 40rem;
+}
+
+[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>img {
+    max-height: 40rem;
+    width: auto;
+}
+
+[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>svg {
+    max-height: 40rem;
+}
+
+[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>img {
+    max-height: 40rem;
+    width: auto;
+}
+
+[data-md-color-scheme="pytx2026_light"] div[class~="pytx-container"] {
+    background: linear-gradient(to bottom, #f9f3e3, #ffffff);
+}
+
+[data-md-color-scheme="pytx2026"] div[class~="pytx-container"] {
+    background: linear-gradient(to bottom, rgba(75, 142, 194, 0.4), #000000);
+}
+
+figcaption {
+    color: var(--md-primary-fg-color);
+    padding: 1rem;
+}
+
+figcaption>a {
+    color: var(--md-typeset-a-color);
+}
+
+a:hover,
+a:focus,
+figcaption>a:hover,
+figcaption>a:focus {
+    color: var(--pytx-yellow);
+}
+
+.md-container {
+    background: var(--md-primary-bg-color);
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color);
+    font-size: 2em;
+    line-height: 1.3;
+    margin: 0 0 1.25em;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+    background: var(--background-color);
+    box-shadow: 0 0 .4rem .4rem var(--background-color);
+    font-weight: 700;
+    margin-top: 0;
+    padding: 0 .6rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+[data-md-color-scheme="pytx2026"] .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+    background: var(--background-color);
+    box-shadow: 0 0 .4rem .4rem var(--background-color);
+    font-weight: 700;
+    margin-top: 0;
+    padding: 0 .6rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.md-nav--secondary .md-nav__title {
+    background: unset;
+    box-shadow: unset;
+}
+
+.md-nav__item .md-nav__link--active,
+.md-nav__item .md-nav__link--active code {
+    color: var(--md-primary-fg-color--light);
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-nav__list {
+    background-color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-nav__list {
+    background-color: var(--background-color) !important;
+}
+
+/* Night mode navigation links */
+[data-md-color-scheme="pytx2026"] .md-nav__link {
+    color: var(--pytx-yellow) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="pytx2026"] .md-nav__item .md-nav__link--active code {
+    color: var(--pytx-yellow) !important;
+}
+
+
+[data-md-color-scheme="pytx2026_light"] .md-typeset table:not([class]) {
+    background-color: var(--background-color);
+    width: 100%;
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) {
+    background-color: var(--background-color);
+    width: 100%;
+    border-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) th,
+[data-md-color-scheme="pytx2026"] .md-typeset table:not([class]) td {
+    border-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026_light"] thead {
+    background-color: var(--pytx-green);
+    color: var(--background-color);
+    font-size: 1.15em;
+}
+
+[data-md-color-scheme="pytx2026"] thead {
+    background-color: var(--pytx-blue);
+    color: var(--background-color);
+    font-size: 1.15em;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-typeset details.question {
+    border-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset details.question {
+    border-color: var(--pytx-blue);
+    background-color: var(--pytx-dark-brown);
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-typeset .question>summary::before,
+[data-md-color-scheme="pytx2026_light"] .md-typeset .question>summary::after {
+    background-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .question>summary::before,
+[data-md-color-scheme="pytx2026"] .md-typeset .question>summary::after {
+    background-color: var(--pytx-blue);
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-typeset .question>summary {
+    background-color: rgba(75, 142, 194, 0.1);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .question>summary {
+    background-color: rgba(75, 142, 194, 0.2);
+    color: var(--pytx-light-cream);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset details.question p,
+[data-md-color-scheme="pytx2026"] .md-typeset details.question li {
+    color: var(--pytx-light-cream);
+}
+
+.pytx-container {
+    background: var(--md-primary-bg-color);
+    display: block;
+    padding: 2rem 0;
+}
+
+.pytx-hero {
+    margin: 0;
+    color: var(--md-default-fg-color);
+    display: block;
+}
+
+.pytx-hero__content {
+    padding-bottom: 2rem;
+    margin: 0 auto;
+}
+
+.pytx-hero__image {
+    max-height: 14rem;
+    padding: 1rem 0 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.pytx-hero__image img {
+    max-width: 100%;
+    max-height: 14rem;
+    height: auto;
+    width: auto;
+    object-fit: contain;
+    display: block;
+}
+
+/* Tablet screens */
+@media screen and (min-width: 768px) {
+    .pytx-hero__image {
+        max-height: 18rem;
+    }
+
+    .pytx-hero__image img {
+        max-height: 18rem;
+    }
+}
+
+/* Desktop screens */
+@media screen and (min-width: 1024px) {
+    .pytx-hero__image {
+        max-height: 22rem;
+    }
+
+    .pytx-hero__image img {
+        max-height: 22rem;
+    }
+}
+
+.pytx-button {
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: var(--md-primary-bg-color);
+    display: inline;
+    font-size: 1.1rem;
+    margin: 0 0.5rem;
+    overflow: hidden;
+    padding: 0.5rem;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 2;
+}
+
+[data-md-color-scheme="pytx2026_light"] .pytx-button--primary {
+    background-color: var(--pytx-orange);
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .pytx-button--primary {
+    background-color: var(--pytx-yellow);
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .pytx-button:focus,
+[data-md-color-scheme="pytx2026_light"] .pytx-button:hover,
+[data-md-color-scheme="pytx2026_light"] .pytx-button--primary:focus,
+[data-md-color-scheme="pytx2026_light"] .pytx-button--primary:hover {
+    background-color: var(--pytx-yellow);
+    color: var(--pytx-brown);
+}
+
+[data-md-color-scheme="pytx2026"] .pytx-button:focus,
+[data-md-color-scheme="pytx2026"] .pytx-button:hover,
+[data-md-color-scheme="pytx2026"] .pytx-button--primary:focus,
+[data-md-color-scheme="pytx2026"] .pytx-button--primary:hover {
+    background-color: var(--pytx-orange);
+    color: var(--pytx-light-cream);
+}
+
+[data-md-color-scheme="pytx2026"] .md-button.pytx-button--primary:hover,
+[data-md-color-scheme="pytx2026"] .md-button.pytx-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-button.pytx-button--primary:hover,
+[data-md-color-scheme="pytx2026_light"] .md-button.pytx-button--primary:focus {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-button--primary:hover,
+[data-md-color-scheme="pytx2026_light"] .md-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-button--primary:hover,
+[data-md-color-scheme="pytx2026"] .md-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
+.pytx-prospectus-graph {
+    width: 49%;
+}
+
+.pytx-prospectus-graph-lg {
+    width: 80%;
+}
+
+/* Grid cards borders */
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > ol > li,
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > * {
+    border: 1px solid var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > ol > li,
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > * {
+    border: 1px solid var(--pytx-blue) !important;
+}
+
+/* Grid cards hr dividers */
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards hr {
+    border-top: 1px solid var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards hr {
+    border-top: 1px solid var(--pytx-blue) !important;
+}
+
+.glow {
+    animation: glow 1s ease alternate infinite;
+}
+
+@keyframes glow {
+    from {
+        filter: drop-shadow(0px 4px 4px #FFFFFF);
+    }
+
+    to {
+        filter: drop-shadow(0px 6px 10px #FFDD67);
+    }
+}
+
+/* Search results - Light mode */
+[data-md-color-scheme="pytx2026_light"] .md-search-result__meta {
+    background-color: var(--pytx-light-cream) !important;
+    color: var(--pytx-brown) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result {
+    background-color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__article {
+    background-color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__title {
+    color: var(--pytx-green) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__teaser {
+    color: var(--pytx-brown) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result mark {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
+}
+
+/* Search results - Dark mode */
+[data-md-color-scheme="pytx2026"] .md-search-result__meta {
+    background-color: var(--pytx-blue) !important;
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result {
+    background-color: var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__article {
+    background-color: var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__title {
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__teaser {
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result mark {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
+}
+
+.sponsor {
+    background-color: white;
+}
+
+.sponsor-black {
+    background-color: black;
+}
+
+/* Announcement banner */
+.md-banner__inner {
+    text-align: center;
+    position: relative;
+}
+
+.md-banner__inner p {
+    padding-right: 3rem;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-banner a,
+[data-md-color-scheme="pytx2026"] .md-banner a {
+    color: var(--pytx-blue) !important;
+}
+
+/* Footer - Tree Trunk Theme */
+[data-md-color-scheme="pytx2026_light"] .md-footer {
+    background-color: var(--pytx-brown);
+    color: var(--background-color);
+}
+
+[data-md-color-scheme="pytx2026"] .md-footer {
+    background-color: var(--pytx-brown);
+    color: var(--background-color);
+}
+
+/* ====================================
+   Keynote Card Formatting
+   ==================================== */
+
+.keynote-card {
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.keynote-middle {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    align-items: start;
+}
+
+.keynote-middle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 600px) {
+    .keynote-middle {
+        display: block;
+    }
+
+    .keynote-middle img {
+        /* Copilot Suggestion */
+        width: 100px;
+        height: 100px;
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* ====================================
+   Speaker Replay & Links Formatting
+   ==================================== */
+
+.speaker-card {
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.speaker-middle {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    align-items: start;
+}
+
+.speaker-middle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.speaker-video-section {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.talk-links {
+    padding-top: 0.25rem;
+}
+
+@media (max-width: 768px) {
+    .speaker-middle {
+        display: block;
+    }
+    .speaker-middle img {
+        width: 150px;
+        margin-bottom: 0.75rem;
+    }
+    .speaker-video-section {
+        display: block;
+    }
+    .talk-links {
+        margin-top: 1rem;
+    }
+}
