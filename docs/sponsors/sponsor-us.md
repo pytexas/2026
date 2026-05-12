@@ -1,6 +1,6 @@
 ---
 title: Sponsor Us
-description: The 2026 prospectus archive. Looking to sponsor PyTexas 2027? See the next year's site.
+description: The 2026 prospectus archive. Looking to sponsor PyTexas 2027? See next year's site.
 ---
 # Sponsor Us
 
