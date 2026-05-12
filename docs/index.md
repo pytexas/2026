@@ -1,15 +1,17 @@
 ---
 title: 2026 PyTexas Conference
 template: home.html
-description: The PyTexas 2026 Conference will be April 17 - 19, 2026 in Austin, Texas. We hope to see y'all there!
+description: The PyTexas 2026 Conference was April 17 - 19, 2026 in Austin, Texas. Thanks for celebrating 20 years of PyTexas with us!
 ---
 
 # 20 Years of PyTexas, Deep in the 🧡 of Texas!
-## April 17 - 19, 2026 in Austin, TX
+## April 17 - 19, 2026 in Austin, TX: That's a Wrap!
 
-[Purchase Tickets](https://pretix.eu/pytexas/2026/){ .md-button .md-button--primary }
+The 2026 event has ended. Thanks to everyone who joined us in celebrating **20 years of PyTexas**! We hope to see y'all next year.
 
-Join us for the **20th year** of the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.
+2026 marked the **20th year** of the largest gathering of Python developers within the great state of Texas. We discussed software development, data science, community, and of course: Python.
+
+[Join Us at PyTexas 2027](https://www.pytexas.org/2027/){ .md-button .md-button--primary }
 
 <div class="grid cards" markdown>
 
@@ -17,21 +19,21 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    PyTexas wouldn't be possible without our sponsors.  Check out our [Prospectus](sponsors/sponsor-us.md) and sponsor PyTexas today.
+    PyTexas wouldn't be possible without our sponsors. A huge thank you to everyone who sponsored our 20th year. [See the full list](sponsors/index.md).
 
--   :fontawesome-solid-ticket:{ .lg .middle} __Attend__
-
-    ---
-
-    Tutorials on April 17, talks on April 18-19. Tickets are on sale now!
-
-    [:octicons-arrow-right-24: Purchase your ticket](https://pretix.eu/pytexas/2026/)
-
--   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
+-   :fontawesome-solid-ticket:{ .lg .middle} __Next Year__
 
     ---
 
-    Our speakers have been announced! Check out our [keynotes](schedule/keynotes.md), [talks](schedule/talks.md), and [tutorials](schedule/tutorials.md).
+    PyTexas 2027 is happening April 16 - 18, 2027 in Austin, TX!
+
+    [:octicons-arrow-right-24: Visit the PyTexas 2027 site](https://www.pytexas.org/2027/)
+
+-   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speakers__
+
+    ---
+
+    Relive PyTexas 2026 with our [keynotes](schedule/keynotes.md), [talks](schedule/talks.md), and [tutorials](schedule/tutorials.md).
 
     [:octicons-arrow-right-24: View the full schedule](schedule/index.md)
 
@@ -45,7 +47,7 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    We're returning to the [Austin Central Library](attend/in-person.md#venue) in downtown Austin. Check out [parking](attend/in-person.md#parking), [hotels](attend/in-person.md#hotels), and [food](attend/in-person.md#food) info.
+    PyTexas 2026 was held at the [Austin Central Library](attend/in-person.md#venue) in downtown Austin.
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 

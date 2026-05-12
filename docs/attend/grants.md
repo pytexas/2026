@@ -5,6 +5,9 @@ description: Money should never stop you from attending PyTexas
 
 ## Opportunity Grants
 
+!!! info "Applications for 2026 are closed"
+    The 2026 event has concluded. Information about Opportunity Grants for PyTexas 2027 will be posted on the [PyTexas 2027 site](https://www.pytexas.org/2027/) as the next conference approaches.
+
 Our goal is to ensure that everyone who wants to attend PyTexas can do so, regardless of age, race, gender, ethnicity, ability or sexual orientation. 
 One way we make this possible is by providing financial assistance to community members that are otherwise unable to attend.
 

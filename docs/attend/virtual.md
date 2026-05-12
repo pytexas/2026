@@ -3,9 +3,12 @@ title: Virtual Attendance
 description: Instructions for attending the PyTexas Conference virtually.
 ---
 
+!!! info "The 2026 event has concluded"
+    The virtual conference is over. Talk recordings are being added to the [PyTexas YouTube channel](https://www.youtube.com/playlist?list=PL0MRiRrXAvRh0bfHGatkL10oI682zH0-F). For next year, see the [PyTexas 2027 site](https://www.pytexas.org/2027/).
+
 Thank you for attending the PyTexas Conference Virtually! 
 
-The virtual conference portion will be held in the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj)
+The virtual conference portion was held in the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj).
 
 
 ## Gaining Access to the Correct Channels

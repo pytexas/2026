@@ -1,6 +1,6 @@
 ---
 title: About the PyTexas Conference
-description: The PyTexas Conference is the annual gathering for the Texas Python Community. Join us for 20 years of PyTexas this year!
+description: The PyTexas Conference is the annual gathering for the Texas Python Community. The 2026 event has concluded — join us at PyTexas 2027!
 ---
 # About the PyTexas Conference
 

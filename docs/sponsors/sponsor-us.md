@@ -1,11 +1,15 @@
 ---
 title: Sponsor Us
-description: Looking to get your company in front of the PyTexas community? Sponsor us today!
+description: The 2026 prospectus archive. Looking to sponsor PyTexas 2027? See next year's site.
 ---
 # Sponsor Us
 
-This year is the 20th annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization. 
-We’re excited to announce that we will be returning on April 17&ndash;19, 2026 to the Austin Central Public Library in Austin, TX. 
+!!! info "Looking to sponsor PyTexas 2027?"
+    The 2026 event has concluded. For the latest prospectus and to get in front of next year's PyTexas community, head to the [PyTexas 2027 sponsorship page](https://www.pytexas.org/2027/sponsors/sponsor-us/) or [join the sponsors mailing list](https://mailchi.mp/fc46f2d077fe/pytexas-sponsors).
+
+The 2026 event was the 20th annual PyTexas Conference, a gathering of Pythonistas put on by the PyTexas Foundation, a 501(c)3 non-profit organization.
+
+We returned on April 17&ndash;19, 2026 to the Austin Central Public Library in Austin, TX. 
 This event is 100% community organized and is funded through the generosity of our sponsors.
 
 Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be added to our sponsor mailing list.

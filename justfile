@@ -21,6 +21,18 @@ serve:
 serve-port PORT="8001":
     uv run mkdocs serve --dev-addr=127.0.0.1:{{PORT}}
 
+# Run local development server bound to this machine's Tailscale IP (for testing from other tailnet devices)
+serve-ts PORT="8000":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    IP=$(tailscale ip -4 | head -n1)
+    if [ -z "$IP" ]; then
+        echo "Could not determine Tailscale IPv4 address. Is tailscale running?" >&2
+        exit 1
+    fi
+    echo "Serving on Tailscale IP: http://$IP:{{PORT}}"
+    uv run mkdocs serve --dev-addr="$IP:{{PORT}}"
+
 # Check all links using lychee against the built site (builds first)
 link-check: build
     ln -sfn site 2026
@@ -53,6 +65,7 @@ help:
     @echo "  just install              Install dependencies using uv"
     @echo "  just serve                Start development server (port 8000)"
     @echo "  just serve-port 8001      Start dev server on specific port"
+    @echo "  just serve-ts [PORT]      Start dev server bound to Tailscale IP"
     @echo ""
     @echo "== Building & Validation =="
     @echo "  just build                Build the documentation site"
