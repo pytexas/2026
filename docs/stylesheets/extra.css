@@ -494,24 +494,10 @@ figcaption>a:focus {
    ==================================== */
 
 .keynote-card {
-    /* Copilot Suggestion */
-    /* background-color: var(--pytx-light-cream);
-    border: 1px solid var(--pytx-blue);
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 1rem;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease; */
-    /* Claude Suggestion */
     margin: 1.5rem 0 2.5rem 0;
 }
 
 .keynote-middle {
-    /* Copilot Suggestion */
-    /* display: flex;
-    flex-direction: column;
-    align-items: center; */
-    /* Claude Suggestion */
     display: grid;
     grid-template-columns: 180px 1fr;
     gap: 1.5rem;
@@ -520,25 +506,12 @@ figcaption>a:focus {
 }
 
 .keynote-middle img {
-    /* Copilot Suggestion */
-    /* border-radius: 50%;
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
-    margin-bottom: 1rem; */
-    /* Claude Suggestion */
     width: 100%;
     height: auto;
     display: block;
 }
 
 .video-wrapper {
-    /* Copilot Suggestion */
-    /* position: relative;
-    padding-bottom: 56.25%; /* 16:9 Aspect Ratio *
-    height: 0;
-    overflow: hidden; */
-    /* Claude Suggestion */
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
@@ -556,9 +529,6 @@ figcaption>a:focus {
 
 @media (max-width: 600px) {
     .keynote-middle {
-        /* Copilot Suggestion */
-        /* flex-direction: column; */
-        /* Claude Suggestion */
         display: block;
     }
 
@@ -567,5 +537,54 @@ figcaption>a:focus {
         width: 100px;
         height: 100px;
         margin-bottom: 0.5rem;
+    }
+}
+
+/* ====================================
+   Speaker Replay & Links Formatting
+   ==================================== */
+
+.speaker-card {
+    margin: 1.5rem 0 2.5rem 0;
+}
+
+.speaker-middle {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    align-items: start;
+}
+
+.speaker-middle img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.speaker-video-section {
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    gap: 1.5rem;
+    align-items: start;
+}
+
+.talk-links {
+    padding-top: 0.25rem;
+}
+
+@media (max-width: 768px) {
+    .speaker-middle {
+        display: block;
+    }
+    .speaker-middle img {
+        width: 150px;
+        margin-bottom: 0.75rem;
+    }
+    .speaker-video-section {
+        display: block;
+    }
+    .talk-links {
+        margin-top: 1rem;
     }
 }
