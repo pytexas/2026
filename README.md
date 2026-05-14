@@ -98,4 +98,13 @@ orange #C73810
 brown #443229
 blue #4B8EC2
 
+## Dependencies
 
+External CLI tools not managed by `uv`:
+
+| Tool | Purpose | Install |
+|---|---|---|
+| [uv](https://github.com/astral-sh/uv) | Python package manager | https://docs.astral.sh/uv/getting-started/installation/ |
+| [just](https://github.com/casey/just) | Command runner | https://just.systems/man/en/packages.html |
+| [lychee](https://github.com/lycheeverse/lychee) | Link checker | https://lychee.cli.rs/installation/ |
+| [Cairo](https://www.cairographics.org/) | Image generation for social cards | macOS: `brew install cairo`, Linux: `apt install libcairo2` |

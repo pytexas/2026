@@ -69,24 +69,6 @@
     display: none;
 }
 
-[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>svg {
-    max-height: 40rem;
-}
-
-[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>img {
-    max-height: 40rem;
-    width: auto;
-}
-
-[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>svg {
-    max-height: 40rem;
-}
-
-[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>img {
-    max-height: 40rem;
-    width: auto;
-}
-
 [data-md-color-scheme="pytx2026_light"] div[class~="pytx-container"] {
     background: linear-gradient(to bottom, #f9f3e3, #ffffff);
 }
@@ -235,10 +217,13 @@ figcaption>a:focus {
     color: var(--pytx-light-cream);
 }
 
+/* overflow: hidden clips the hero image's top overflow (sunrays).
+   The image is bottom-aligned in .pytx-hero__image via align-items: flex-end,
+   so only the top extends beyond this container. */
 .pytx-container {
     background: var(--md-primary-bg-color);
     display: block;
-    padding: 2rem 0;
+    overflow: hidden;
 }
 
 .pytx-hero {
@@ -250,46 +235,24 @@ figcaption>a:focus {
 .pytx-hero__content {
     padding-bottom: 2rem;
     margin: 0 auto;
+    text-align: center;
 }
 
 .pytx-hero__image {
-    max-height: 14rem;
-    padding: 1rem 0 2rem 0;
+    max-height: 53vw;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
     width: 100%;
+    overflow: visible;
 }
 
 .pytx-hero__image img {
     max-width: 100%;
-    max-height: 14rem;
     height: auto;
     width: auto;
     object-fit: contain;
     display: block;
-}
-
-/* Tablet screens */
-@media screen and (min-width: 768px) {
-    .pytx-hero__image {
-        max-height: 18rem;
-    }
-
-    .pytx-hero__image img {
-        max-height: 18rem;
-    }
-}
-
-/* Desktop screens */
-@media screen and (min-width: 1024px) {
-    .pytx-hero__image {
-        max-height: 22rem;
-    }
-
-    .pytx-hero__image img {
-        max-height: 22rem;
-    }
 }
 
 .pytx-button {
@@ -587,4 +550,29 @@ figcaption>a:focus {
     .talk-links {
         margin-top: 1rem;
     }
+}
+
+/* Homepage-only overrides (scoped via .pytx-hero__content presence) */
+@media screen and (min-width: 60em) {
+    .md-container:has(.pytx-hero__content) .md-sidebar--secondary {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-container:has(.pytx-hero__content) .md-sidebar--primary {
+        display: none;
+    }
+}
+
+.md-container:has(.pytx-hero__content) .md-main__inner {
+    margin-top: 0;
+}
+
+.md-container:has(.pytx-hero__content) .md-content__inner {
+    padding-top: 0;
+}
+
+.md-container:has(.pytx-hero__content) .md-content__inner::before {
+    display: none;
 }

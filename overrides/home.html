@@ -1,43 +1,4 @@
 {% extends "main.html" %}
-<!-- Remove side nav bar on large screens on desktop -->
-{% block header %}
-  {{ super() }}
-
-  <!-- Additional styles for landing page -->
-  <style>
-
-    /* Hide table of contents */
-    @media screen and (min-width: 60em) {
-      .md-sidebar--secondary {
-        display: none;
-      }
-    }
-
-    /* Hide navigation */
-    @media screen and (min-width: 76.25em) {
-      .md-sidebar--primary {
-        display: none;
-      }
-    }
-
-    /* Prevent main content from overlapping hero */
-    .md-main {
-      padding-top: 0.5rem !important;
-    }
-
-    @media screen and (min-width: 768px) {
-      .md-main {
-        padding-top: 3rem !important;
-      }
-    }
-
-    @media screen and (min-width: 1024px) {
-      .md-main {
-        padding-top: 2rem !important;
-      }
-    }
-</style>
-{% endblock %}
 {% block hero %}
 <div class="pytx-hero pytx-container">
   <div class="pytx-hero__image hide-if-dark">
@@ -49,7 +10,7 @@
 </div>
 {% endblock %}
 {% block content %}
-    <div style="text-align: center;">
+    <div class="pytx-hero__content">
         {% include "partials/content.html" %}
     </div>
 {% endblock %}
